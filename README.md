@@ -4,7 +4,6 @@
 <p><em>Software Enginner student at Lambda School</em></p>
 
 [![Linkedin: thaianebraga](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rory-roberts1/)
-[![GitHub Thaiane](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rory-Ray)
 
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
 
