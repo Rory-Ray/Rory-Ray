@@ -19,4 +19,4 @@ const Rory = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rory-ray&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align = "right" src="https://i.kym-cdn.com/photos/images/newsfeed/001/330/845/f24.jpg">
+<img align = "right" src="https://i.kym-cdn.com/photos/images/newsfeed/001/330/845/f24.jpg" width="500" height="600">
