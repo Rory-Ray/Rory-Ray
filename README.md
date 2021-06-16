@@ -17,4 +17,4 @@ const Rory = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rory-ray&show_icons=true&theme=dark)
 
-(https://github-readme-stats.vercel.app/api?username=rory-ray&show_icons=true&theme=dark&border=DD11DDlocale=en)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rory-ray&show_icons=true&theme=dark&border=DD11DDlocale=en](https://github.com/anuraghazra/github-readme-stats)
