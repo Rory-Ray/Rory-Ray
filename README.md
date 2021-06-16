@@ -20,3 +20,10 @@ const Rory = {
 <p>
 <img align = "right" src="https://i.kym-cdn.com/photos/images/newsfeed/001/330/845/f24.jpg" width="300" height="300">
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
