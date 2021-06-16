@@ -18,6 +18,7 @@ const Rory = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rory-ray&show_icons=true&theme=dark" />
 </a>
 <br>
+<br>
 <p>
 <img align = "center" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" height="300">
 </p>
