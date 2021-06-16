@@ -15,7 +15,7 @@ const Rory = {
 ```
 
 <p>
-<img align = "right" src="https://giphy.com/gifs/youtube-best-seriously-1kkxWqT5nvLXupUTwK" width="300" height="300">
+<img align = "right" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" height="300">
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
