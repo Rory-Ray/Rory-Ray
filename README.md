@@ -13,3 +13,6 @@ const Rory = {
   code: [HTML, CSS, JavaScript, Python],
 }
 ```
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rory-ray&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
