@@ -1,5 +1,5 @@
 
-<h2> I'm Rory, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm Rafe, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 <p><em>Software Enginner student at Lambda School</em></p>
 
@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Rory = {
+const Rafe = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, Python],
 }
