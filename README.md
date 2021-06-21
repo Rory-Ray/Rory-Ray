@@ -15,7 +15,7 @@ const Rafe = {
 ```
 <div align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rory-ray&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-rafe&show_icons=true&theme=dark" />
 </a>
 <br>
 <br>
@@ -23,6 +23,6 @@ const Rafe = {
 <img align = "center" src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="300" height="300">
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rory-ray&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-rafe&theme=dark&layout=compact" />
 </a>
 </div>
