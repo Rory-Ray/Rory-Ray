@@ -1,7 +1,7 @@
 
-<h2> I'm Rafe, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm Rary, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
-<p><em>Software Engineer student at Lambda School</em></p>
+<p><em>Full Stack Software Engineer</em></p>
 
 [![Linkedin: thaianebraga](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rory-roberts1/)
 
