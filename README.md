@@ -10,7 +10,7 @@
 ```javascript
 const Rafe = {
   pronouns: "They" | "Them",
-  code: [HTML, CSS, JavaScript, React JS, Python],
+  code: [HTML, CSS, JavaScript, ReactJS, Python],
 }
 ```
 <div align = "center">
