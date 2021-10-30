@@ -9,8 +9,8 @@
 
 ```javascript
 const Rafe = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, JavaScript, Python],
+  pronouns: "They" | "Them",
+  code: [HTML, CSS, JavaScript, React JS, Python],
 }
 ```
 <div align = "center">
