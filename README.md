@@ -1,5 +1,5 @@
 
-<h2> I'm Rary, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm Rory, welcome to my GitHub! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 <p><em>Full Stack Software Engineer</em></p>
 
